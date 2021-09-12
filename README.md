@@ -1,6 +1,6 @@
-# dean_institute_mobile_app
+# Education App Ui
 
-Dean Institute Mobile Application
+Education Application UI design
 
 ## Getting Started
 
